@@ -136,3 +136,7 @@ body{
 img{
     object-fit: cover;
 }
+
+.card-body{
+    border-top: solid #455d7a 0.01rem;
+}
