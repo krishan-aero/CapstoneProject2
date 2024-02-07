@@ -47,9 +47,9 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 60vh;
     width: 100%;
     background-color: #FFFFEC;
+    padding-bottom: 50px;
 }
 
 .intro-container img{
@@ -71,7 +71,6 @@ body{
 }
 
 .skills-container{
-    padding-top: 50px;
     padding-bottom: 30px;
     background-color: #FFFFEC;
     width: 100%;
